@@ -11,7 +11,7 @@ https://ai-career-advisor-vd3f3zdvbgvj2xqtneev4u.streamlit.app/
 
 ## 📸 Application Preview
 
-https://github.com/sushmarakesh17/AI-Career-Advisor/blob/main/dashboard.png
+![AI Career Advisor Dashboard](https://raw.githubusercontent.com/sushmarakesh17/AI-Career-Advisor/main/dashboard.png)
 
 ## ✨ Features
 
