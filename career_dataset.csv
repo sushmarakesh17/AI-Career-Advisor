@@ -1,0 +1,41 @@
+Skills,Education,Experience,Interest,Career
+Python;SQL;Pandas;Machine Learning,B.Tech,0,AI,Data Scientist
+Python;SQL;Power BI;Excel,B.Tech,1,Analytics,Data Analyst
+Python;Machine Learning;Deep Learning,M.Tech,2,AI,Machine Learning Engineer
+Java;Spring Boot;SQL,B.Tech,2,Software Development,Software Engineer
+HTML;CSS;JavaScript;React,B.Tech,1,Web Development,Frontend Developer
+Node.js;Express;MongoDB,B.Tech,2,Web Development,Backend Developer
+Python;Django;SQL,B.Tech,2,Web Development,Full Stack Developer
+Python;TensorFlow;Deep Learning,M.Tech,3,AI,AI Engineer
+Excel;SQL;Power BI,B.Com,1,Business,Business Analyst
+Python;Power BI;Excel,B.Tech,1,Analytics,BI Developer
+AWS;Docker;Kubernetes,B.Tech,3,Cloud,Cloud Engineer
+AWS;Azure;Terraform,B.Tech,4,Cloud,Cloud Architect
+Python;Linux;Networking,B.Tech,2,Cyber Security,Cyber Security Analyst
+Python;Flask;Docker,B.Tech,2,DevOps,DevOps Engineer
+SQL;Excel;Tableau,BBA,1,Analytics,Reporting Analyst
+Python;NLP;Transformers,M.Tech,3,AI,NLP Engineer
+Python;OpenCV;Deep Learning,M.Tech,2,Computer Vision,Computer Vision Engineer
+Python;Spark;Hadoop,B.Tech,3,Big Data,Data Engineer
+Python;SQL;Statistics,M.Sc,2,Analytics,Data Analyst
+R;Statistics;Machine Learning,M.Sc,2,Research,Research Analyst
+Python;FastAPI;Docker,B.Tech,2,Backend,API Developer
+Java;Android Studio,B.Tech,1,Mobile Development,Android Developer
+Swift;iOS,B.Tech,2,Mobile Development,iOS Developer
+C#;.NET;SQL,B.Tech,2,Software Development,.NET Developer
+Python;Excel;Statistics,B.Sc,0,Analytics,Junior Data Analyst
+Power BI;SQL;DAX,B.Tech,2,BI,Power BI Developer
+Tableau;SQL;Excel,B.Tech,2,BI,Tableau Developer
+Python;Scikit-learn;Pandas,B.Tech,1,AI,ML Engineer
+Python;LLM;LangChain;Prompt Engineering,B.Tech,2,Generative AI,Generative AI Engineer
+Python;OpenAI API;LangChain,B.Tech,2,Generative AI,AI Application Developer
+Python;SQL;Power BI;Machine Learning,B.Tech,3,Analytics,Senior Data Analyst
+Java;Microservices;Spring Boot,B.Tech,4,Software Development,Java Developer
+React;Node.js;MongoDB,B.Tech,2,Web Development,MERN Stack Developer
+Python;AWS;Docker;Kubernetes,B.Tech,4,Cloud,ML Ops Engineer
+Python;SQL;Azure,B.Tech,3,Cloud,Cloud Data Engineer
+Python;Excel;Communication,MBA,2,Business,Product Analyst
+SQL;Python;Business Intelligence,MBA,3,Business,Business Intelligence Analyst
+Python;Machine Learning;Statistics,PhD,5,Research,Research Scientist
+Linux;Networking;AWS,B.Tech,2,Cloud,System Administrator
+Python;Automation;Selenium,B.Tech,2,Testing,Automation Test Engineer
